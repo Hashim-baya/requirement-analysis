@@ -205,7 +205,7 @@ A Use Case Diagram is a visual representation that:
 4. **Foundation for Development**: Guides creation of detailed use cases and test cases
 
 ### Booking System Use Case Diagram
-! [alx-booking-uc.png]
+[https://github.com/Hashim-baya/requirement-analysis/blob/main/docs/diagrams/alx-booking-uc.png]
 
 **Diagram Components:**
 
